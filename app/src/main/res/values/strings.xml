@@ -2,4 +2,6 @@
     <string name="app_name">Tela Principal</string>
     <string name="txt_apresentacao">Clique no botão abaixo para exibir os tipos grãos de café.</string>
     <string name="btn_show">Mostrar</string>
+    <string name="desc_grao">Descreva o grão de café</string>
+    <string name="tipo_grao">Nome do grão</string>
 </resources>
