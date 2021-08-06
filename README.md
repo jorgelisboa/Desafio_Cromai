@@ -19,3 +19,6 @@ activity ShowGraosCafe.
 * Você poderá iniciar a activity ShowGraosCafe através de um evento de um botão.
 * O case poderá ser resolvido em kotlin ou em Java.
 > - Cromai
+
+### AVISO
+Estarei realizando no meu tempo livre uma melhoria no app, utilizando cadastro das sementes via SQLite, mas por agora, o que foi pedido foi entregado com êxito.
