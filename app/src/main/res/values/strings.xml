@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tela Principal</string>
+    <string name="txt_apresentacao">Clique no botão abaixo para exibir os tipos grãos de café.</string>
+    <string name="btn_show">Mostrar</string>
+</resources>

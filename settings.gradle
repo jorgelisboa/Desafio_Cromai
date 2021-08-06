@@ -1,0 +1,2 @@
+rootProject.name = "Cromai_desafio"
+include ':app'
