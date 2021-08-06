@@ -22,3 +22,6 @@ activity ShowGraosCafe.
 
 ### AVISO
 Estarei realizando no meu tempo livre uma melhoria no app, utilizando cadastro das sementes via SQLite, mas por agora, o que foi pedido foi entregado com êxito.
+
+#### Explicação do projeto
+Decidi utilizar as duas linguagens pois atualmente sou desenvolvedor Kotlin/Java, e acho que ambas linguagens tem suas funções em áreas específicas do código. Além de ser um projeto pequeno e simples. sem precisar ter muitos cuidados.
