@@ -6,8 +6,8 @@
 pouco das suas habilidades. Bora lá?
 1. Crie uma activity ou uma classe, chamada TiposGraosCafe, nela você irá criar uma lista
 com 7 elementos, os 7 tipos de grãos de café a seguir:
-Café Arábica, Café Bourbon, Café Kona, Café Catuaí, Café Acaiá, Café Robusta e
-Café Geisha.
+***Café Arábica, Café Bourbon, Café Kona, Café Catuaí, Café Acaiá, Café Robusta e
+Café Geisha***.
 2. Crie uma segunda activity, chamada ShowGraosCafe e exiba na tela dessa activity a
 lista contendo todos os seus elementos ou seja, todos os tipos de grãos de café.
 * O objetivo desse exercício é a criação de listas e a transação de dados entre activities
